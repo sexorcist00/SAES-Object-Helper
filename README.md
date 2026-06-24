@@ -6,8 +6,8 @@
 
 **Инструмент расстановки объектов для SA:MP (MoonLoader)** — живое 3D-превью, удобный редактор и установка объектов прямо на сервер.
 
-![version](https://img.shields.io/badge/version-1.2.0-brightgreen)
-![min supported](https://img.shields.io/badge/min%20supported-1.2.0-orange)
+![version](https://img.shields.io/badge/version-1.3.0-brightgreen)
+![min supported](https://img.shields.io/badge/min%20supported-1.2.4-orange)
 ![MoonLoader](https://img.shields.io/badge/MoonLoader-required-blue)
 ![auto-update](https://img.shields.io/badge/auto--update-✓-success)
 
